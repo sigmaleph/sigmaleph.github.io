@@ -1,0 +1,6 @@
+{{ define "main" }}
+  {{ .Content }}
+  <h2>Recent posts</h2>
+  {{ partial "post-list.html" (first 5 (where site.RegularPages "Section" "posts")) }}
+  <p><a href="{{ "posts/" | relURL }}">All posts →</a></p>
+{{ end }}

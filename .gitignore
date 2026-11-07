@@ -1,0 +1,4 @@
+# Hugo's build output and cache; regenerate with `hugo`.
+public/
+resources/_gen/
+.hugo_build.lock
