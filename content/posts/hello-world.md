@@ -1,7 +1,7 @@
 ---
-title: "Hello, world"
+title: "Can an LLM change its mind? Featuring: the hot hand"
 date: 2026-11-07T10:00:00-03:00
-tags: ["meta"]
+tags: ["ai"]
 ---
 This is the first post. Every post is a Markdown file in `content/posts/`.
 
