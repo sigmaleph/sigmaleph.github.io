@@ -1,7 +1,8 @@
 ---
 title: "A small experiment on continuity of opinion, featuring the hot hand fallacy"
-date: 2026-11-07T20:02:00-03:00
+date: 2026-11-08T12:00:00-03:00
 tags: ["Artificial intelligence"]
+description: "_"
 ---
 
 Here's an experience a human can have: "I used to think that was true, but then I looked into it further and thought about it more, and changed my mind". When I talk about some subject, sometimes the things I say are shaped by the fact that my opinions on it have meaningfully drifted over time; this affects, for instance, how I would phrase things towards someone who has the opinion I used to have, for the reasons I used to have it. 
